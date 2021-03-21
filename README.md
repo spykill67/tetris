@@ -1,0 +1,2 @@
+# tetris
+exercice en javascript 
